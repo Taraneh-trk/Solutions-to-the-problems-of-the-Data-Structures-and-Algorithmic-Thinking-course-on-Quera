@@ -3,5 +3,5 @@ Solutions to the exercises of the "Data Structures and Algorithmic Thinking" cou
 
 ---
 
-> ⚠️ If any of the referenced files violate your rights, please contact me to have them removed.
+> ⚠️ If any of these files violate your rights, please contact me to have them removed.
 
