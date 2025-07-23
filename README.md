@@ -3,5 +3,13 @@ Solutions to the exercises of the "Data Structures and Algorithmic Thinking" cou
 
 ---
 
+* The naming convention for these solutions follows the format:
+     `chapterNumber-questionNumber`
+
+     * `chapterNumber`: the chapter number 
+     * `questionNumber`: the exercise number at that chapter
+
+---
+
 > ⚠️ If any of these files violate your rights, please contact me to have them removed.
 
